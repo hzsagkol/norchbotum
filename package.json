@@ -1,0 +1,14 @@
+{
+  "name": "norch",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "HZSAGKOL",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
+}
